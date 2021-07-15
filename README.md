@@ -1,0 +1,3 @@
+# 텍스트 전처리 기능 자동화
+
+- with python, mecab, konlpy, etc ...
